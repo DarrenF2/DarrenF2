@@ -27,7 +27,6 @@
 [<img align="left" alt="MySQL" width="26px" src="https://github.com/get-icon/geticon/blob/master/icons/mysql.svg" />]
 [<img align="left" alt="MongoDB" width="26px" src="https://github.com/get-icon/geticon/blob/master/icons/mongodb-icon.svg" />]
 [<img align="left" alt="GitHub" width="26px" src="https://github.com/get-icon/geticon/blob/master/icons/github-icon.svg" />]
-<br />
 
 [website]: https://dfhdstudios.com
 [linkedin]: https://www.linkedin.com/in/darrenffreeman/
