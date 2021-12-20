@@ -16,14 +16,14 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio-code.svg" />]
-[<img align="left" alt="Docker" width="26px" src="https://github.com/get-icon/geticon/blob/master/icons/docker-icon.svg" />]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img align="left" alt="Swift" width="26px" src="https://github.com/get-icon/geticon/blob/master/icons/swift.svg" />]
-[<img align="left" alt="AWS" width="26px" src="https://github.com/get-icon/geticon/blob/master/icons/aws.svg" />]
-[<img align="left" alt="Jenkins" width="26px" src="https://github.com/get-icon/geticon/blob/master/icons/jenkins.svg" />]
-[<img align="left" alt="Firebase" width="26px" src="https://github.com/get-icon/geticon/blob/master/icons/firebase.svg" />]
-[<img align="left" alt="Python" width="26px" src="https://github.com/get-icon/geticon/blob/master/icons/python.svg" />]
-[<img align="left" alt="MySQL" width="26px" src="https://github.com/get-icon/geticon/blob/master/icons/mysql.svg" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://github.com/get-icon/geticon/blob/master/icons/mongodb-icon.svg" />]
-[<img align="left" alt="GitHub" width="26px" src="https://github.com/get-icon/geticon/blob/master/icons/github-icon.svg" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio-code.svg" />
+[<img align="left" alt="Docker" width="26px" src="https://github.com/get-icon/geticon/blob/master/icons/docker-icon.svg" />
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+[<img align="left" alt="Swift" width="26px" src="https://github.com/get-icon/geticon/blob/master/icons/swift.svg" />
+[<img align="left" alt="AWS" width="26px" src="https://github.com/get-icon/geticon/blob/master/icons/aws.svg" />
+[<img align="left" alt="Jenkins" width="26px" src="https://github.com/get-icon/geticon/blob/master/icons/jenkins.svg" />
+[<img align="left" alt="Firebase" width="26px" src="https://github.com/get-icon/geticon/blob/master/icons/firebase.svg" />
+[<img align="left" alt="Python" width="26px" src="https://github.com/get-icon/geticon/blob/master/icons/python.svg" />
+[<img align="left" alt="MySQL" width="26px" src="https://github.com/get-icon/geticon/blob/master/icons/mysql.svg" />
+[<img align="left" alt="MongoDB" width="26px" src="https://github.com/get-icon/geticon/blob/master/icons/mongodb-icon.svg" />
+[<img align="left" alt="GitHub" width="26px" src="https://github.com/get-icon/geticon/blob/master/icons/github-icon.svg" />
