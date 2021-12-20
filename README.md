@@ -6,9 +6,9 @@
 ## I'm a recent Computer Science grad who can't wait to begin a journey in tech!
 
  - 👨🏽‍💻  I am an artist, software engineer and lifelong scholar
- - 🧠  I’m currently learning DevOps
+ - 🧠  I’m currently learning DevOps at Kura Labs as an infrastructure automation fellow
  - 🤖  I’m looking to break intp th tech industry and develop my skills while building through infrastructure automation
- - 📈  2021 Goals: Learn as much as I can and become a better Engineer
+ - 📈  2021 Goals: Learn as much as I can and become a better engineer
  - 🎮  Fun fact: I love making indie games in my spare time
 
 
