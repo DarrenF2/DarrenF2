@@ -1,12 +1,12 @@
-### Hi there, I'm Darren [website]
+### Hi there, I'm Darren 
 
 [![Website](https://img.shields.io/website?label=dfhdstudios.com&style=for-the-badge&url=https://www.dfhdstudios.com/)](https://www.dfhdstudios.com/)
 
 
 ## I'm a recent Computer Science grad who can't wait to begin his journey in tech!
 
-- 👨🏽‍💻  I am an artist, software engineer and lifelong scholar
-- 🧠  I’m currently learning DevOps 🤣
+- 👨🏽‍💻 _ I am an artist, software engineer and lifelong scholar
+- 🧠 _ I’m currently learning DevOps 🤣
 - 🤖  I’m looking to break into develop my skills and build through infrastructure automation
 - 🥅  2021 Goals: Learn as much as I can and become a better Engineer
 - ⚡  Fun fact: I love to making indie games in my spare time
