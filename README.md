@@ -9,7 +9,7 @@
  - 🧠  I’m currently learning DevOps
  - 🤖  I’m looking to break intp th tech industry and develop my skills while building through infrastructure automation
  - 📈  2021 Goals: Learn as much as I can and become a better Engineer
- - 🎮  Fun fact: I love to making indie games in my spare time
+ - 🎮  Fun fact: I love making indie games in my spare time
 
 
 <br />
