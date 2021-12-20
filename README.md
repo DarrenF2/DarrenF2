@@ -1,6 +1,6 @@
 ### Hi there, I'm Darren [website]
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https://www.dfhdstudios.com/)](https://www.dfhdstudios.com/)
+[![Website](https://img.shields.io/website?label=dfhdstudios.com&style=for-the-badge&url=https://www.dfhdstudios.com/)](https://www.dfhdstudios.com/)
 
 
 ## I'm a recent Computer Science grad who can't wait to begin his journey in tech!
