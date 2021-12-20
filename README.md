@@ -7,7 +7,7 @@
 
  - 👨🏽‍💻  I am an artist, software engineer and lifelong scholar
  - 🧠  I’m currently learning DevOps
- - 🤖  I’m looking to break into develop my skills and build through infrastructure automation
+ - 🤖  I’m looking to break intp th tech industry and develop my skills while building through infrastructure automation
  - 📈  2021 Goals: Learn as much as I can and become a better Engineer
  - 🎮  Fun fact: I love to making indie games in my spare time
 
