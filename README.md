@@ -29,3 +29,4 @@
 <img align="left" alt="MongoDB" width="26px" src="https://github.com/get-icon/geticon/blob/master/icons/mongodb-icon.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/get-icon/geticon/blob/master/icons/github-icon.svg" />
 <img align="left" alt="Terraform" width="26px" src="https://github.com/get-icon/geticon/blob/master/icons/terraform.svg" />
+<img align="left" alt="Terraform" width="26px" src="https://github.com/get-icon/geticon/blob/master/icons/kubernetes.svg" />
